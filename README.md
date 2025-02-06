@@ -6,7 +6,7 @@ The HR Tableau Dashboard provides an in-depth analysis of human resources metric
 
 ## Contents
 
-### Dashboards
+## Dashboards
 
 1. HR | Summary – Offers a high-level overview of key HR metrics and trends.
 
@@ -17,7 +17,7 @@ The HR Tableau Dashboard provides an in-depth analysis of human resources metric
 ![HR Details pg2](https://github.com/user-attachments/assets/c7703589-0d1c-46f0-86e7-4b1e0ac0fef4)
 
 
-### Worksheets
+## Worksheets
 
 The dashboard includes multiple worksheets that analyze different aspects of HR data:
 
@@ -61,7 +61,7 @@ The dashboard includes multiple worksheets that analyze different aspects of HR 
 
 -Terminated by Year – Yearly trends in employee terminations.
 
-### Data Sources
+## Data Sources
 
 The workbook uses a federated data source, suggesting that it integrates multiple datasets or an external database.
 <a href="https://github.com/gsinghpawar25/Data-Analysis-DB-HRtrends-proj3s/blob/main/HumanResources.csv">Data Source</a>
@@ -79,7 +79,7 @@ The specific structure of the dataset may include:
 -Department & Job Role Analysis – Understanding workforce structure and job title distributions.
 -Performance Analysis – Evaluating employee performance in relation to education levels.
 
-### Usage
+## Usage
 
 The dashboard is interactive, allowing HR professionals to filter data by different attributes (age, gender, location, department, etc.).
 
@@ -87,7 +87,7 @@ Charts and visualizations enable quick analysis and comparison of key HR metrics
 
 Useful for workforce planning, diversity analysis, salary benchmarking, and performance evaluation.
 
-### Key Metrics & Insights
+## Key Metrics & Insights
 
 ##### Demographics –
 Age, gender, and education-level distribution. Notably, younger employees tend to have higher representation in entry-level positions, while senior roles are often occupied by employees with extensive experience and advanced degrees.
@@ -107,7 +107,7 @@ Understanding workforce structure and job title distributions. Some departments 
 ##### Performance Analysis –
 Evaluating employee performance in relation to education levels. Employees with higher educational qualifications often receive better performance ratings, though on-the-job experience also plays a crucial role in overall employee success.
 
-### Conclusion
+## Conclusion
 
 The HR Tableau Dashboard serves as a powerful analytical tool for HR professionals, enabling better decision-making based on workforce data. With interactive features and comprehensive visualizations, it helps track HR trends effectively.
 
