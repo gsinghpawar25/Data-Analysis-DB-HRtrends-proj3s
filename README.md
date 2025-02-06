@@ -63,7 +63,9 @@ The dashboard includes multiple worksheets that analyze different aspects of HR 
 
 ### Data Sources
 
-The workbook uses a federated data source, suggesting that it integrates multiple datasets or an external database. The specific structure of the dataset may include:
+The workbook uses a federated data source, suggesting that it integrates multiple datasets or an external database.
+<a href="https://github.com/gsinghpawar25/Data-Analysis-DB-HRtrends-proj3s/blob/main/HumanResources.csv">Data Source</a>
+The specific structure of the dataset may include:
 
 -Employee demographics
 -Salary details
