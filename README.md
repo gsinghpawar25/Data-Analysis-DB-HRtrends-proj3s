@@ -1,2 +1,2 @@
-# Data-Analysis-DB-HRtrends-proj3s
+# Data-Analysis-DB-HRtrends-proj3
 The HR Tableau Dashboard provides an in-depth analysis of human resources metrics, offering insights into employee demographics, hiring trends, terminations, education levels, and salary distributions. 
