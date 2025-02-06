@@ -8,9 +8,14 @@ The HR Tableau Dashboard provides an in-depth analysis of human resources metric
 
 ### Dashboards
 
-1. HR | Details – Provides granular details about employees, including personal and professional attributes.
+1. HR | Summary – Offers a high-level overview of key HR metrics and trends.
 
-2. HR | Summary – Offers a high-level overview of key HR metrics and trends.
+![HR Overview pg1](https://github.com/user-attachments/assets/aea2c2a7-77c3-4567-8119-d05bb8932602)
+
+2. HR | Details – Provides granular details about employees, including personal and professional attributes.
+
+![HR Details pg2](https://github.com/user-attachments/assets/c7703589-0d1c-46f0-86e7-4b1e0ac0fef4)
+
 
 ### Worksheets
 
